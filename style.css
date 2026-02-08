@@ -1,0 +1,25 @@
+#head_container{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 50px;
+}
+
+.card{
+    width: 300px;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 1px grey;
+}
+
+.card-img{
+    width: 50px;
+}
+
+.dnot_found{
+    width: 80vw;
+}
+
+.modal-img{
+    height: 250px;
+}
