@@ -65,7 +65,7 @@ document.getElementById("searchBtn").addEventListener('click', (e) => {
 
 const addToGroup = (id) => {
     // alert message
-    if (SL > 7) {
+    if (SL > 6) {
         alert("You already added 7 or more");
         return;
     }
